@@ -5,12 +5,12 @@ Enthusiastic learner!
 #### Now
 - 🌱 I'm learning MLOps in depth from [DataTalksClub](https://github.com/DataTalksClub/mlops-zoomcamp).
 - 💪 I'm taking Data Engineer course from [A CLOUD GURU](https://acloudguru.com/course/google-certified-professional-data-engineer) (It is amazing!!!).
-- 🧑‍🎓 Finished Master Graduate in Computer Science (Applied Artificial Intelligence) from uOttawa focused on time-series forecasting concentrated on traffic domain.
 -  📝 Sharing my learnings.
 
 #### Bio
+- 🧑‍🎓 Finished Master Graduate in Computer Science (Applied Artificial Intelligence) from uOttawa focused on time-series forecasting concentrated on traffic domain.
 - 🙆‍♀️ Open to the job opportunities as ML/AIops, ML engineer, Data engineer, Data Scientist.
-- ✨ Thesis work on Graph representation learning, Time-series modeling, Spatio-temporal dependency, Multi-scale modelling, deep-learning-based Model Design.
+- ✨ Experience in Graph representation learning, Time-series modeling, Spatio-temporal dependency, Multi-scale modelling, deep-learning-based Model Design.
 - 📖 Experience in NLP, Computer Vision, Drug design, Medical image processing.
 - 👨🏻‍💻 Past roles include Research assistant, Project Manager(Intern), Teaching assistant.
 - 💬 Ping me about **Python**, **Machine Learning**, **MLOps**, **Data Engineer**, **PM**, and of course .

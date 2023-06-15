@@ -10,8 +10,8 @@ Enthusiastic learner!
 #### Bio
 - 🧑‍🎓 Finished Master Graduate in Computer Science (Applied Artificial Intelligence) from uOttawa focused on time-series forecasting concentrated on traffic domain.
 - 🙆‍♀️ Open to the job opportunities as ML/AIops, ML engineer, Data engineer, Data Scientist.
-- ✨ Experience in Graph representation learning, Time-series modeling, Spatio-temporal dependency, Multi-scale modelling, deep-learning-based Model Design.
-- 📖 Experience in NLP, Computer Vision, Drug design, Medical image processing.
+- ✨ Work experience in Graph representation learning, Time-series modeling, Spatio-temporal dependency, Multi-scale modelling, deep-learning-based Model Design.
+- 📖 Project experience in NLP, Computer Vision, Drug design, Medical image processing.
 - 👨🏻‍💻 Past roles include Research assistant, Project Manager(Intern), Teaching assistant.
 - 💬 Ping me about **Python**, **Machine Learning**, **MLOps**, **Data Engineer**, **PM**, and of course .
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/Muhongfan/)

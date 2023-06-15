@@ -29,30 +29,25 @@ Started **Piggy girls academic help** to provide academic help such as , make gr
 
 ## ⚡ Github Stats ##
 
-<a href="[https://github.com/Muhongfan/MLops](https://github.com/Muhongfan/MLops)" target="_blank">
+<a href="https://github.com/Muhongfan/MLops" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhongfan&repo=MLops&theme=dracula" />
 </a>
-<a href="https://github.com/BPrasad123/GoTo_Data_Science" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bprasad123&repo=GoTo_Data_Science&theme=dracula" />
+<a href="https://github.com/Muhongfan/GNN_Spatial" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhongfan&repo=GNN_Spatial&theme=dracula" />
 </a>
-<a href="https://github.com/TSAI-MLOps-BASS/Session2-CIFAR-Deployment-with-Flask-and-Heroku" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TSAI-MLOps-BASS&repo=Session2-CIFAR-Deployment-with-Flask-and-Heroku&theme=dracula" />
+<a href="https://github.com/Muhongfan/Medical-images-retrieval-system" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhongfan&repo=Medical-images-retrieval-system&theme=dracula" />
 </a>
-<a href="https://github.com/TSAI-MLOps-BASS/Session3-Docker-Flask-Pytorch-Heroku-Imagenet-Classification" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TSAI-MLOps-BASS&repo=Session3-Docker-Flask-Pytorch-Heroku-Imagenet-Classification&theme=dracula" />
+<a href="https://github.com/Muhongfan/Modelling-and-Sentiment-Analysis-of-Tweets-Related-to-Freedom-Convoy" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhongfan&repo=Modelling-and-Sentiment-Analysis-of-Tweets-Related-to-Freedom-Convoy&theme=dracula" />
 </a>
-<a href="https://github.com/BPrasad123/EPAi_Phase-I_Advanced_Python" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BPrasad123&repo=EPAi_Phase-I_Advanced_Python&theme=dracula" />
+<a href="https://github.com/Muhongfan/recommendation-system" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhongfan&repo=recommendation-system&theme=dracula" />
 </a>
-<a href="https://github.com/BPrasad123/EVA_Computer_Vision" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BPrasad123&repo=EVA_Computer_Vision&theme=dracula" />
+<a href="https://github.com/Muhongfan/How-to-build-a-Graph-Based-Architecture-in-DRUG-area" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhongfan&repo=How-to-build-a-Graph-Based-Architecture-in-DRUG-area&theme=dracula" />
 </a>
-<a href="https://github.com/BPrasad123/EVA_TinyImageNet_Challenge" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BPrasad123&repo=EVA_TinyImageNet_Challenge&theme=dracula" />
-</a>
-<a href="https://github.com/BPrasad123/TSAI-MLOps-Phase1" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BPrasad123&repo=TSAI-MLOps-Phase1&theme=dracula" />
-</a>
+
 
 <div align="left">
 
@@ -62,20 +57,13 @@ Started **Piggy girls academic help** to provide academic help such as , make gr
 
 ## 📫 Connect With Me
 
-<p left="center">
-<a href="https://twitter.com/bbhagabat">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-</a> 
-<a href="https://www.linkedin.com/in/bhagabat-prasad/">
+
+<a href="https://www.linkedin.com/in/Muhongfan/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
-<a href="https://dev.to/bprasad123">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height=25>
-</a>
-<a href="https://medium.com/@bhagabat.prasad123">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
-</a>
-<a href="mailto:bhagabat.prasad123@gmail.com">
+
+
+<a href="mailto:hmu026@icloud.com">
   <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
 </p>

@@ -29,15 +29,8 @@ Started **Piggy girls academic help** to provide academic help such as , make gr
 
 ## ⚡ Github Stats ##
 
-<p float="left">
-
-![Bhagabat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bprasad123&show_icons=true&theme=merko)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bprasad123&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
-
-<a href="https://github.com/BPrasad123/MLOps_Zoomcamp" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bprasad123&repo=MLOps_Zoomcamp&theme=dracula" />
+<a href="[https://github.com/Muhongfan/MLops](https://github.com/Muhongfan/MLops)" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhongfan&repo=MLops&theme=dracula" />
 </a>
 <a href="https://github.com/BPrasad123/GoTo_Data_Science" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bprasad123&repo=GoTo_Data_Science&theme=dracula" />

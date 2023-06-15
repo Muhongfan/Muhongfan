@@ -13,7 +13,7 @@ Enthusiastic learner!
 - ✨ Thesis work on Graph representation learning, Time-series modeling, Spatio-temporal dependency, Multi-scale modelling, deep-learning-based Model Design.
 - 📖 Experience in NLP, Computer Vision, Drug design, Medical image processing.
 - 👨🏻‍💻 Past roles include Research assistant, Project Manager(Intern), Teaching assistant.
-- 💬 Ping me about **Python**, **Machine Learning**, **MLOps**, **Data **, **PM**, and of course .
+- 💬 Ping me about **Python**, **Machine Learning**, **MLOps**, **Data Engineer**, **PM**, and of course .
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/Muhongfan/)
 
 
@@ -24,7 +24,7 @@ Started **Piggy girls academic help** to provide academic help such as , make gr
 
 ## 👨🏻‍💻 Skillset ##
 
-<img height="30" src="imgs/python-original.svg" alt="python"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"> <img height="30" src="imgs/django.svg" alt="Django"><img height="30" src="imgs/docker-original.svg" alt="Docker"> <img height="30" src="imgs/linux-original.svg" alt="linux"> <img height="30" src="imgs/git-original.svg" alt="git"> <img height="30" src="imgs/machine-learning.svg" alt="machinelearning"> <img height="30" src="imgs/deeplearning.png" alt="dp"><img height="30" src="imgs/sql.png" alt="sql"> <img height="30" src="imgs/amazon-aws.svg" alt="AWS"> <img height="30" src="imgs/azure.svg" alt="Azure"> <img height="30" src="imgs/mlflow.png" alt="mlflow"><img height="30" src="imgs/product-development-icon.svg" alt="productmanagement"> 
+<img height="30" src="imgs/python-original.svg" alt="python"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"> <img height="30" src="imgs/django.svg" alt="Django"><img height="30" src="imgs/docker-original.svg" alt="Docker"> <img height="30" src="imgs/linux-original.svg" alt="linux"> <img height="30" src="imgs/git-original.svg" alt="git"> <img height="30" src="imgs/machine-learning.svg" alt="machinelearning"> <img height="30" src="imgs/deeplearning.png" alt="dp"><img height="30" src="imgs/mysql-icon" alt="sql"> <img height="30" src="imgs/amazon-aws.svg" alt="AWS"> <img height="30" src="imgs/azure.svg" alt="Azure"> <img height="30" src="imgs/mlflow.png" alt="mlflow"> <img height="30" src="imgs/django.svg" alt="dj">  <img height="30" src="imgs/product-development-icon.svg" alt="productmanagement"> <img height="30" src="imgs/pytorch-icon.svg" alt="pytorch"> <img height="30" src="imgs/tensorflow-icon.svg" alt="tf">
 
 
 ## ⚡ Github Stats ##

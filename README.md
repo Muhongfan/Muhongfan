@@ -19,7 +19,11 @@ Enthusiastic learner!
 
 ## 🌏 Doing my bit ##
 
-Started **Piggy girls academic help** to provide academic help such as , make grass root level changes with real impact. We opened an Open Fitness Center, an Open Learning Center, an Art Center, and conducted tree plantation programs. With this we had an opporunity impact lives of 50+ people and the journey continues.
+I founded **Piggy Girls Academic Help** to offer academic assistance to girls seeking help in Python programming, basic computer systems, and mathematical modeling. My ultimate goal is to help girls with their idea, wish, and purpose in STEM, but they need a helping hand and meaningful encouragement. Throughout my experience as a Teaching Assistant at university, I have noticed a trend where girls tend to give up more quickly in coding programs, not because of any inherent lack of ability but rather due to the influence of external stereotypes makes girls afraid to try, but they can
+
+Some still perpetuate that girls are not intelligent, logical thinkers or capable of learning STEM subjects. These harmful stereotypes contribute to emotional challenges and self-doubt among girls. Moreover, being in a male-dominated industry exacerbates these issues, as doubt and criticism from others are more prevalent compared to other fields. The predominance of men in STEM industries can create an environment that feels unwelcoming or exclusive to women. The lack of diversity and inclusive practices can contribute to feelings of isolation and make it challenging for girls to establish supportive professional networks. These unfavorable environments make it increasingly difficult for women to excel and succeed despite being brilliant.
+
+However, it is crucial to emphasize that girls' natural talents and capabilities should be seen and encouraged to diminish the effect of external factors. Girls are just as capable and talented as boys in STEM areas. By providing academic support and fostering an empowering, warm, friendly learning environment, Piggy Girls Academic Help aims to challenge these stereotypes and help girls recognize their full potential in STEM if they want to break the rules. Welcome, all the girls who need help; come and contact me. Welcome all the girls with the same willings as I join this group.
 
 
 ## 👨🏻‍💻 Skillset ##

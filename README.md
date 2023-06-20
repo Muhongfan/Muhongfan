@@ -4,7 +4,8 @@ Enthusiastic learner!
 
 #### Now
 - 🌱 I'm learning MLOps in depth from [DataTalksClub](https://github.com/DataTalksClub/mlops-zoomcamp).
-- 💪 I'm taking Data Engineer course from [A CLOUD GURU](https://acloudguru.com/course/google-certified-professional-data-engineer) (It is amazing!!!).
+- 💪 I'm taking AI Engineer course from [Microsoft Azure]([Master the basics of Azure: AI Fundamentals](https://learn.microsoft.com/zh-cn/users/sandramarin/collections/zopanqdn7w1p1))(It is amazing as well!!!)
+<!-- - [A CLOUD GURU](https://acloudguru.com/course/google-certified-professional-data-engineer) (It is amazing!!!). -->
 -  📝 Sharing my learnings.
 
 #### Bio

@@ -4,8 +4,8 @@ Enthusiastic learner!
 
 #### Now
 - 🌱 I'm learning MLOps in depth from [DataTalksClub](https://github.com/DataTalksClub/mlops-zoomcamp).
-- 💪 I'm taking AI Engineer course from [Microsoft Azure]([Master the basics of Azure: AI Fundamentals](https://learn.microsoft.com/zh-cn/users/sandramarin/collections/zopanqdn7w1p1))(It is amazing as well!!!)
-<!-- - [A CLOUD GURU](https://acloudguru.com/course/google-certified-professional-data-engineer) (It is amazing!!!). -->
+- 💪 I'm taking AI Engineer course from Microsoft Azure for [Master the basics of Azure: AI Fundamentals](https://learn.microsoft.com/zh-cn/users/sandramarin/collections/zopanqdn7w1p1) and gonna continue the further study with [A CLOUD GURU](https://acloudguru.com/course/google-certified-professional-data-engineer)
+- Given my knowledge and skills in model design and the whole workflow for data processing to model eveluation, I plan to take courses related to the further step - model implementation and cloud related tech.
 -  📝 Sharing my learnings.
 
 #### Bio
@@ -20,9 +20,9 @@ Enthusiastic learner!
 
 ## 🌏 Doing my bit ##
 
-I founded **Piggy Girls Academic Help** to offer academic assistance to girls seeking help in Python programming, basic computer systems, and mathematical modeling. My ultimate goal is to help girls with their idea, wish, and purpose in STEM if they need a helping hand and meaningful encouragement. Throughout my experience as a Teaching Assistant at university and a famale researcher in STEM area, I have noticed a trend where girls tend to give up more quickly in coding programs, not because of any inherent lack of ability but rather due to the influence of external stereotypes and negtive opinion make girls afraid to try, but actually they are able to make it.
+**Piggy Girls Academic Help** is to offer academic assistance to girls seeking help in Python programming, basic computer systems, and mathematical modeling. My ultimate goal is to help girls with their idea, wish, and purpose in STEM if they need a helping hand and meaningful encouragement. Throughout my experience as a Teaching Assistant at university and a famale researcher in STEM area, I have noticed a trend where girls tend to give up more quickly in coding programs than boys, not because of any inherent lack of ability but, honestly, rather due to the influence of external stereotypes and negtive opinion make girls afraid to try, however, actually girls are able to make it.
 
-Some still perpetuate that girls are not intelligent, logical thinkers or capable of learning STEM subjects. These harmful stereotypes contribute to emotional challenges and self-doubt among girls. Moreover, being in a male-dominated industry exacerbates these issues, as doubt and criticism from others are more prevalent compared to other fields. The lack of diversity and inclusive practices can contribute to feelings of isolation and make it challenging for girls to establish supportive professional networks. These unfavorable environments make it increasingly difficult for women to continue, excel,  and succeed despite being brilliant.
+Some still perpetuate that girls are not intelligent, logical thinkers or capable of learning STEM subjects. These harmful stereotypes contribute to emotional challenges and self-doubt among girls. Moreover, being in a male-dominated industry exacerbates these issues, as doubt and criticism from others are more prevalent compared to other fields. The lack of diversity and inclusive practices can contribute to feelings of isolation and make it challenging for girls to establish supportive professional networks. These unfavorable environments make it increasingly difficult for women to continue, excel, and succeed despite being brilliant.
 
 However, it is crucial to emphasize that girls' natural talents and capabilities should be seen and encouraged to diminish the effect of external factors. Girls are just as capable and talented as boys in STEM areas. By providing academic support and fostering an empowering, warm, friendly learning environment, Piggy Girls Academic Help aims to challenge these stereotypes and help girls recognize their full potential in STEM if they want to break the rules. Welcome, all the girls who need help; come and contact me. Welcome all the girls with the same willings as I join this group.
 

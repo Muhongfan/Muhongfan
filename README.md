@@ -5,7 +5,7 @@ Enthusiastic learner!
 #### Now
 - 🌱 I'm learning MLOps in depth from [DataTalksClub](https://github.com/DataTalksClub/mlops-zoomcamp).
 - 💪 I'm taking AI Engineer course from Microsoft Azure for [Master the basics of Azure: AI Fundamentals](https://learn.microsoft.com/zh-cn/users/sandramarin/collections/zopanqdn7w1p1) and gonna continue the further study with [A CLOUD GURU](https://acloudguru.com/course/google-certified-professional-data-engineer)
-- Given my knowledge and skills in model design and the whole workflow for data processing to model eveluation, I plan to take courses related to the further step - model implementation and cloud related tech.
+- Given my knowledge and skills in model design and the whole workflow for data processing to model eveluation, I plan to take courses related to the further step - model deployment and cloud related tech.
 -  📝 Sharing my learnings.
 
 #### Bio

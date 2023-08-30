@@ -63,7 +63,7 @@ By providing academic support and fostering an empowering, warm, friendly learni
 ## 📫 Connect With Me
 
 
-<a href="www.linkedin.com/in/hongfan-mu">
+<a href="https://www.linkedin.com/in/hongfan-mu/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
 

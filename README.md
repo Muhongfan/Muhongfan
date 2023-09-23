@@ -36,8 +36,8 @@ By providing academic support and fostering an empowering, warm, friendly learni
 <a href="https://github.com/Muhongfan/MLops" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhongfan&repo=MLops&theme=dracula" />
 </a>
-<a href="[https://github.com/Muhongfan/IMAGE-PROCESSING-BASED-ON-DEEP-LEARNING](https://github.com/Muhongfan/MLE)" target="_blank">
- <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=Muhongfan&repo=IMAGE-PROCESSING-BASED-ON-DEEP-LEARNING&theme=dracula](https://github.com/Muhongfan/MLE)" />
+<a href="https://github.com/Muhongfan/MLE" target="_blank">
+ <img align="center" src="https://github.com/Muhongfan/MLE" />
 </a>
 <a href="https://github.com/Muhongfan/GNN_Spatial" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhongfan&repo=GNN_Spatial&theme=dracula" />

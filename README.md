@@ -2,29 +2,31 @@
 
 Enthusiastic learner!
 
+### ❤️ Small achievement after Jul (Started job seeking)
+- Finish MLops course and project[DataTalksClub](https://github.com/DataTalksClub/mlops-zoomcamp): AWS Kinesis, EC2, S3, LAMBDA, Prefect, Mlflow, PostgreSQL, Docker, Docker-compose, Grafana; Automation Test (Unit test/Integration test/Cloud service with localstack), Code quality check (pylint, black, isort)
+- Microsoft Azure Certification: AZ-900[https://learn.microsoft.com/api/credentials/share/en-us/HongfanMu-1223/A9189427F5D30E3D?sharingId=1D664442E5166EF0], AI-900[https://learn.microsoft.com/api/credentials/share/en-us/HongfanMu-1223/62593A3BD4487D23?sharingId=1D664442E5166EF0].
+
 #### Now
-- 🌱 I'm taking AI Engineer course from Microsoft Azure for [Master the basics of Azure: AI Fundamentals](https://learn.microsoft.com/zh-cn/users/sandramarin/collections/zopanqdn7w1p1) and  K8s + docker on Udemy.
-- 💪 I have finished MLOps in depth from [DataTalksClub](https://github.com/DataTalksClub/mlops-zoomcamp).
+- 🌱 I'm taking K8s + docker course on Udemy.
+- 🌟 For improving the ability on processing massive data, I am working on re-arranging my NLP project with Apach spark and Kafka.
 - 💻 I gonna continue the further study with [A CLOUD GURU](https://acloudguru.com/course/google-certified-professional-data-engineer).
 - ✏️ Given my knowledge and skills in model design and the whole workflow for data processing to model eveluation, I plan to take courses related to the further step - model deployment and cloud related tech.
--  📝 Sharing my learnings.
-
+- 📝 Sharing my learnings.
+  
 #### Bio
 - 🧑‍🎓 Finished Master Graduate in Computer Science (Applied Artificial Intelligence) from uOttawa focused on time-series forecasting concentrated on traffic domain.
 - 🙆‍♀️ Open to the job opportunities as ML/AIops, ML engineer, Data engineer, Data Scientist.
 - ✨ Work experience in Graph representation learning, Time-series modeling, Spatio-temporal dependency, Multi-scale modelling, deep-learning-based Model Design.
 - 📖 Project experience in NLP, Computer Vision, Drug design, Medical image processing.
 - 👨🏻‍💻 Past roles include Research assistant, Project Manager(Intern), Teaching assistant.
-- 💬 Ping me about **Python**, **Machine Learning**, **MLOps**, **Data Engineer**, **PM**, and of course .
+- 💬 Ping me about **Python**, **Machine Learning**, **MLOps**, **Data Engineer**, **PM**, and of course **Enthusiastic learner**！.
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/Muhongfan/)
-
 
 ## 🌏 Doing my bit ##
 
 **Piggy Girls Academic Help** is to offer academic assistance to girls seeking help in Python programming, basic computer systems, and mathematical modeling. My ultimate goal is to help girls with their idea, wish, and purpose in STEM if they need a helping hand and meaningful encouragement. Throughout my experience as a Teaching Assistant at university and a famale researcher in STEM area, I have noticed a trend where girls tend to give up more quickly in coding programs than boys, not because of any inherent lack of ability but, honestly, rather due to the influence of external stereotypes and negtive opinion make girls afraid to try, however, actually girls are able to make it.
 
 By providing academic support and fostering an empowering, warm, friendly learning environment, Piggy Girls Academic Help aims to challenge these stereotypes and help girls recognize their full potential in STEM if they want to break the rules. Welcome, all the girls who need help; come and contact me. Welcome all the girls with the same willings as I join this group.
-
 
 ## 👨🏻‍💻 Skillset ##
 

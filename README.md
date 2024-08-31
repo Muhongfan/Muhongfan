@@ -35,7 +35,7 @@ By providing academic support and fostering an empowering, warm, friendly learni
 
 ## ⚡ Github Stats ##
 
-<a href="https://github.com/Muhongfan/MLops" target="_blank">
+<a href="https://github.com/Muhongfan/MLops-zoomcamp-2024" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhongfan&repo=MLops&theme=dracula" />
 </a>
 

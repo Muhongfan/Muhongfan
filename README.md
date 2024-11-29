@@ -2,8 +2,11 @@
 
 Enthusiastic learner!
 
-#### ❤️ Small achievement after Jul (Started job seeking)
-- Finish [MLops](https://github.com/Muhongfan/MLops) course and project: AWS Kinesis, EC2, S3, LAMBDA, Prefect, Mlflow, PostgreSQL, Docker, Docker-compose, Grafana; Automation Test (Unit test/Integration test/Cloud service with localstack), Code quality check (pylint, black, isort)
+#### ❤️ Small achievement after Jul
+- Finish reading 'The Complete Developer'.
+- Finish the software developer bootcamp with Brainstation.
+- Finish a capstone MLops project for the time-series forecast of energy consumption and analysis based on the energy consumption dataset.
+- Finish the [MLops](https://github.com/Muhongfan/MLops) course and hands-on projects: AWS Kinesis, EC2, S3, LAMBDA, Prefect, Mlflow, PostgreSQL, Docker, Docker-compose, Grafana; Automation Test (Unit test/Integration test/Cloud service with localstack), Code quality check (pylint, black, isort)
 - Microsoft Azure Certification: [AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/HongfanMu-1223/A9189427F5D30E3D?sharingId=1D664442E5166EF0), [AI-900](https://learn.microsoft.com/api/credentials/share/en-us/HongfanMu-1223/62593A3BD4487D23?sharingId=1D664442E5166EF0).
 
 #### Now

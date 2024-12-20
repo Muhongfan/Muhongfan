@@ -11,18 +11,18 @@ Enthusiastic learner!
 
 #### Now
 - 🌱 I'm taking K8s + docker course on Udemy.
-- 🌟 For improving the ability on processing massive data, I am working on re-arranging my NLP project with Apach spark and Kafka.
+- ✏️ Given my backend and cloud work I plan to take courses related to the system design and streaming data processing.
+- 🌟 For improving the ability on processing massive data, I am still working on re-arranging my NLP project with Apach spark and Kafka.
 - 💻 I gonna continue the further study with [A CLOUD GURU](https://acloudguru.com/course/google-certified-professional-data-engineer).
-- ✏️ Given my knowledge and skills in model design and the whole workflow for data processing to model eveluation, I plan to take courses related to the further step - model deployment and cloud related tech.
 - 📝 Sharing my learnings.
   
 #### Bio
-- 🧑‍🎓 Finished Master Graduate in Computer Science (Applied Artificial Intelligence) from uOttawa focused on time-series forecasting concentrated on traffic domain.
-- 🙆‍♀️ Open to the job opportunities as ML/AIops, ML engineer, Data engineer, Data Scientist.
-- ✨ Work experience in Graph representation learning, Time-series modeling, Spatio-temporal dependency, Multi-scale modelling, deep-learning-based Model Design.
-- 📖 Project experience in NLP, Computer Vision, Drug design, Medical image processing.
+- 💼 I'm working as backend and cloud developer now.
+- 🧑‍🎓 Finished Master Graduate in Computer Science (Applied Artificial Intelligence) from uOttawa focused on the archtecture design of time-series forecasting concentrated on traffic domain.
+- ✨ Work experience in Graph representation learning, Time-series modeling, Spatio-temporal dependency, multi-scale modelling, deep-learning-based Model Design.
+- 📖 Project experience in traffic flow forecasting, llm, NLP, Computer Vision, Drug design, Medical image processing.
 - 👨🏻‍💻 Past roles include Research assistant, Project Manager(Intern), Teaching assistant.
-- 💬 Ping me about **Python**, **Machine Learning**, **MLOps**, **Data Engineer**, **PM**, and of course **Enthusiastic learner**！.
+- 💬 Ping me about **Backend and Cloud developer**, **Machine Learning**, **MLOps Engineer**, **Data Engineer**, and of course **Enthusiastic learner**！.
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/Muhongfan/)
 
 ## 🌏 Doing my bit ##
@@ -34,7 +34,6 @@ By providing academic support and fostering an empowering, warm, friendly learni
 ## 👨🏻‍💻 Skillset ##
 
 <img height="30" src="imgs/python-original.svg" alt="python"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"> <img height="30" src="imgs/django.svg" alt="Django"><img height="30" src="imgs/docker-original.svg" alt="Docker"> <img height="30" src="imgs/linux-original.svg" alt="linux"> <img height="30" src="imgs/git-original.svg" alt="git"> <img height="30" src="imgs/machine-learning.svg" alt="machinelearning"> <img height="30" src="imgs/deeplearning.png" alt="dp"><img height="30" src="imgs/mysql-icon.svg" alt="sql"> <img height="30" src="imgs/amazon-aws.svg" alt="AWS"> <img height="30" src="imgs/azure.svg" alt="Azure"> <img height="30" src="imgs/mlflow.png" alt="mlflow"> <img height="30" src="imgs/product-development-icon.svg" alt="productmanagement"> <img height="30" src="imgs/pytorch-icon.svg" alt="pytorch"> <img height="30" src="imgs/tensorflow-icon.svg" alt="tf">
-
 
 ## ⚡ Github Stats ##
 

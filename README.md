@@ -4,7 +4,6 @@ Enthusiastic learner!
 
 #### ❤️ Small achievement after graduation
 - Finish reading 'The Complete Developer'.
-- Finish the software developer bootcamp with Brainstation.
 - Finish a capstone [MLops project](https://github.com/Muhongfan/MLops-zoomcamp-2024) for the time-series forecast of energy consumption and analysis based on the energy consumption dataset.
 - Finish the [MLops](https://github.com/Muhongfan/MLops) course and hands-on projects: AWS Kinesis, EC2, S3, LAMBDA, Prefect, Mlflow, PostgreSQL, Docker, Docker-compose, Grafana; Automation Test (Unit test/Integration test/Cloud service with localstack), Code quality check (pylint, black, isort)
 - Microsoft Azure Certification: [AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/HongfanMu-1223/A9189427F5D30E3D?sharingId=1D664442E5166EF0), [AI-900](https://learn.microsoft.com/api/credentials/share/en-us/HongfanMu-1223/62593A3BD4487D23?sharingId=1D664442E5166EF0).
@@ -15,7 +14,6 @@ Enthusiastic learner!
 - 🌟 For improving the ability on processing massive data, I am still working on re-arranging my NLP project with Apach spark and Kafka.
 - 🕙 Working on time-series forecasting with energy generation and forecasting models & workflow.
 - 🤖 Learning for the tech of LLM application for retrieval QA bot and seaching engine.
-- 💻 I gonna continue the further study with [A CLOUD GURU](https://acloudguru.com/course/google-certified-professional-data-engineer).
 - 📝 Sharing my learnings.
   
 #### Bio
@@ -24,7 +22,7 @@ Enthusiastic learner!
 - ✨ Work experience in Graph representation learning, Time-series modeling, Spatio-temporal dependency, multi-scale modelling, deep-learning-based Model Design.
 - 📖 Project experience in traffic flow forecasting, llm, NLP, Computer Vision, Drug design, Medical image processing.
 - 👨🏻‍💻 Past roles include Research assistant, Project Manager(Intern), Teaching assistant.
-- 💬 Ping me about **Backend and Cloud developer**, **Machine Learning**, **MLOps Engineer**, **Data Engineer**, and of course **Enthusiastic learner**！.
+- 💬 Ping me about **Backend and Cloud developer**, **Machine Learning**, **MLOps Engineer**.
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/Muhongfan/)
 
 ## 🌏 Doing my bit ##
